@@ -1,4 +1,4 @@
-# 📊Job Listing Scraper for Working Nomads
+# 📊Job Listing Scraper for Working Nomads 
 
 This project aims to develop a scraper for the [Working Nomads](https://www.workingnomads.com/jobs) website. The scraper will extract job listings, detailed job descriptions, and comprehensive company information. The scraped data will be output in JSON format to the console and stored optimally in a DynamoDB database.
 
